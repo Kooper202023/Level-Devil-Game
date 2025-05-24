@@ -1,8 +1,0 @@
-[
-  {
-    "floors": [
-      { "x": 200, "y": 320, "w": 100, "h": 20, "direction": "updown", "range": 80, "speed": 2 },
-      { "x": 400, "y": 320, "w": 100, "h": 20, "direction": "updown", "range": 120, "speed": 3 }
-    ]
-  }
-]
